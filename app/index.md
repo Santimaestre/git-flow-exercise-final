@@ -18,9 +18,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 
-### [Madame Croque](writer/madame-croque.md)
-
-[Chocolate Soup](recipe/jan/chocolate-soup.md)
 
 ### [Eggs Benny](writer/eggs-benny.md) | englishmuffing@flavvor.magazine
 
