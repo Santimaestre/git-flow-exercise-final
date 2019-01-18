@@ -21,3 +21,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+
+### [Eggs Benny](writer/eggs-benny.md) | englishmuffing@flavvor.magazine
+
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/recipe.md)
