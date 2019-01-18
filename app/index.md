@@ -1,8 +1,11 @@
 # _Flavor_ Magazine
 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
+## Last Month's Favorites
 
+### [Eggs Benny](writer/eggs-benny.md) | englishmuffing@flavvor.magazine
 
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/recipe.md)
 
 ## Picks of the Month
 
@@ -18,6 +21,12 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 
-### [Madame Croque](writer/madame-croque.md)
+
+### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+
+
+### [Eggs Benny](writer/eggs-benny.md) | englishmuffing@flavvor.magazine
+
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/recipe.md)
