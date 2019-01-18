@@ -1,19 +1,23 @@
 # _Flavor_ Magazine
 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
+## Last Month's Favorites
 
+### [Eggs Benny](writer/eggs-benny.md) | englishmuffing@flavvor.magazine
 
-### Picks of the Month
+[Asparagus with Cranberries and Pine Nuts](recipe/feb/recipe.md)
 
-#### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
+## Picks of the Month
+
+### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md)
 
 [Grilled Peach Salad](recipe/jan/grilled-peach-salad.md)
 
-#### [Eggs Benny](writer/eggs-benny.md) 
+### [Eggs Benny](writer/eggs-benny.md) 
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
 
-#### [John Lemon](writer/john-lemon.md)
+### [John Lemon](writer/john-lemon.md)
 
 [Homemade Sausages](recipe/jan/homemade-sausages.md)
 
@@ -21,6 +25,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
 
-#### [Eggs Benny](writer/eggs-benny.md) | englishmuffing@flavvor.magazine
+### [Eggs Benny](writer/eggs-benny.md) | englishmuffing@flavvor.magazine
 
 [Asparagus with Cranberries and Pine Nuts](recipe/feb/recipe.md)
