@@ -32,7 +32,7 @@ patch=0
 ```
 
 Finally, stage and commit the change:
-```sh
+```sh. 
 $ git add app/VERSION
 
 $ git commit -m "Bump version to 1.1"

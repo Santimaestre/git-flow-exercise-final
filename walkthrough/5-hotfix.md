@@ -23,7 +23,7 @@ $ git checkout -b hotfix-1.0.1
 # create & switch to hotfix branch
 ```
 
-Bump the patch number contained in the [VERSION](/app/VERSION) file:
+Bump the patch number contain. ed in the [VERSION](/app/VERSION) file:
 ```
 major=1
 minor=0
