@@ -27,7 +27,7 @@ Switched to a new branch 'hotfix-1.0.1'
 ```
 
 Choose two developers to address each issue.
-
+. 
 - Developer 1:
     1. Create a feature branch off of `release-1.1` named `last-months-favorites`.
     2. Commit the following changes to the feature branch:

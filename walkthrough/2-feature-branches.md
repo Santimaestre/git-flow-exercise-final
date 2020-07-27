@@ -19,7 +19,7 @@ Follow along with the activities below to walk through the process of creating a
 
 ### 1 - Create a Feature Branch
 
-__All Team Members__
+__All Team Members__ . 
 
 Choose a writer &mdash; you will add their recipe to the project within a new feature branch. If there are more writers than people, that is fine, only one feature branch will ultimately be merged.
 

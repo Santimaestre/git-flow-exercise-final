@@ -26,7 +26,7 @@ $ git pull
 Next we will walk through the process of applying a hotfix to the code in production.
 
 [Go](5-hotfix.md)
-
+. 
 
 ## Quick Links
 

@@ -28,7 +28,7 @@ $ git merge --no-ff release-1.1
 $ git push
 ```
 
----
+---. 
 
 :cop: :raised_hand: - Please wait until everyone has caught up.
 

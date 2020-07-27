@@ -22,7 +22,7 @@ Review the following things:
 2. Check to see if there is any important information on the Conversation tab.
 3. Check the Commits tab to get a high-level view of the individual changes that were made.
 3. Verify that the changes on the Files Changed tab look correct to you.
-
+. 
 If anything looks wrong, please make a quick comment outlining the issue. If there is a specific line of code, you can comment directly on the line from the Files Changed tab. 
 
 If everything looks okay, please make a quick comment indicating that you believe the code is ready to be merged.

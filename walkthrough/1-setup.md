@@ -25,7 +25,7 @@ Fork the source repository:
 
 ### 2 - Clone your Fork
 
-__All Team Members__
+__All Team Members__ . 
 
 Clone this project to your local machine:
 ```sh
