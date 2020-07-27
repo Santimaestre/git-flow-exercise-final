@@ -15,14 +15,14 @@ Follow along with the activities below to walk through the process of creating a
 __Maintainers__
 
 Create a branch off of `master` named `hotfix-1.0.1`:
-```sh
+```shasdasd
 $ git checkout master
 # switch to master branch
 
 $ git checkout -b hotfix-1.0.1
 # create & switch to hotfix branch
 ```
-
+Cambio en develop
 Bump the patch number contain. ed in the [VERSION](/app/VERSION) file:
 ```
 major=1
