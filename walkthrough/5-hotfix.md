@@ -15,7 +15,7 @@ Follow along with the activities below to walk through the process of creating a
 __Maintainers__
 
 Create a branch off of `master` named `hotfix-1.0.1`:
-```sh
+```shasdasd
 $ git checkout master
 # switch to master branch
 
