@@ -25,7 +25,7 @@ $ git pull
 
 $ git merge --no-ff release-1.1
 
-$ git push
+$ git pus
 ```
 
 ---. 
