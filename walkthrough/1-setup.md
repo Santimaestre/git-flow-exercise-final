@@ -4,7 +4,7 @@ In order to contribute to a GitHub project, you will need two things: a GitHub F
 
 ## :running: Activities
 
-Follow along with the activities below to get yourself ready for the rest of the walkthrough.
+Follow along with the activities below to get yourself ready for the rest of the walkthrough. [ Example ]
 
 
 ### 1 - Fork a Source Repository
